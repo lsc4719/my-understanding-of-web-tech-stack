@@ -26,3 +26,4 @@
 | tech | description |
 | - | - |
 | React | - |
+| Vercel | - |
