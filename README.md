@@ -16,7 +16,7 @@
 | Next.js | - |
 | React | - |
 | TypeScript | - |
-| Vercel | - | 
+| AWS | - | 
 
 ## Personal Project - Backend
 
