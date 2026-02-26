@@ -1,4 +1,4 @@
-## Enterprise Backend
+## Enterprise - Backend
 
 | tech | description |
 | - | - |
@@ -9,7 +9,7 @@
 | Linux | super duper powerful OS (de-facto standard OS for servers and cloud environments) |
 | AWS | de-facto standard cloud platform for deploying and operating backend systems |
 
-## Enterprise Frontend
+## Enterprise - Frontend
 
 | tech | description |
 | - | - |
